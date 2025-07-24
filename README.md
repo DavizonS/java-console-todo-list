@@ -2,7 +2,7 @@
 
 Este proyecto es un **gestor de tareas (To-Do List) ejecutado desde consola**, desarrollado en Java como parte de un proceso de formación técnica.
 
-> 📌 **Este proyecto forma parte de la etapa productiva del programa de formación del SENA**, realizado durante el proceso de entrenamiento en **CGI ISMC Colombia S.A.S.**.
+> 📌 **Este proyecto forma parte de la etapa productiva del programa de formación del [SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx)**, realizado durante el proceso de entrenamiento en [CGI ISMC Colombia S.A.S.](https://www.cgi.com/co/es).
 
 ---
 
