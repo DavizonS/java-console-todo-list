@@ -1,6 +1,8 @@
 # 📝 Gestor de Tareas en Consola - Java
 
-¡Bienvenido! Este es un mini proyecto hecho en Java que simula un **gestor de tareas tipo To-Do List en consola**, ideal para practicar programación orientada a objetos y manejo de archivos.
+Este proyecto es un **gestor de tareas (To-Do List) ejecutado desde consola**, desarrollado en Java como parte de un proceso de formación técnica.
+
+> 📌 **Este proyecto forma parte de la etapa productiva del programa de formación del SENA**, realizado durante el proceso de entrenamiento en **CGI ISMC Colombia S.A.S.**.
 
 ---
 
@@ -50,5 +52,50 @@ javac *.java
 ```bash
 javac *.java
 ```
+---
+## 🗂️ Estructura del proyecto
 
-🗂️ Estructura del proyecto
+```bash
+java-console-todo-list/
+├── Main.java         # Clase principal con el menú
+├── Task.java         # Clase que representa una tarea individual
+├── TaskManager.java  # Lógica del gestor: agregar, borrar, guardar, etc.
+└── tasks.txt         # Archivo generado automáticamente para guardar tareas
+```
+
+---
+
+## 🧩 Ejemplo en ejecución
+
+```bash
+--- GESTOR DE TAREAS ---
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Eliminar tarea
+0. Salir
+Elige una opción: 1
+Descripción de la tarea: Terminar proyecto Java
+
+Tarea agregada con éxito ✔
+```
+
+---
+
+## 💡 Posibles mejoras futuras
+
+- Usar archivos (`.json`) en lugar de (`.txt`)
+- Añadir fecha límite o prioridad a cada tarea
+- Crear una interfaz gráfica con JavaFX
+- Convertirlo en una app web usando Spring Boot
+
+---
+
+## 📚 Créditos
+Proyecto desarrollado por Deivison Ortega como práctica de Java desde consola.
+Inspirado en la idea de mantener simples las cosas mientras se aprenden fundamentos.
+
+---
+
+## 📃 Licencia
+Este proyecto está bajo la licencia MIT. ¡Úsalo, modifícalo y comparte como quieras!
