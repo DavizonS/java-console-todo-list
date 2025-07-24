@@ -37,3 +37,18 @@
 ```bash
 git clone https://github.com/tu-usuario/java-console-todo-list.git
 cd java-console-todo-list
+```
+
+2. Compila los archivos Java:
+
+```bash
+javac *.java
+```
+
+3. Ejecuta el programa:
+   
+```bash
+javac *.java
+```
+
+🗂️ Estructura del proyecto
