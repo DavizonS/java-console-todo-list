@@ -92,7 +92,7 @@ Tarea agregada con éxito ✔
 ---
 
 ## 📚 Créditos
-Proyecto desarrollado por Deivison Ortega como práctica de Java desde consola.
+Proyecto desarrollado por **Deivison Ortega** como práctica de Java desde consola.
 Inspirado en la idea de mantener simples las cosas mientras se aprenden fundamentos.
 
 ---
